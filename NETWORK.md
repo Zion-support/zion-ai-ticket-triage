@@ -1,10 +1,16 @@
-# Zion AI Ticket Triage
+# 🌐 Part of the Zion App Network
 
-NLP classification and routing of inbound support tickets.
+**Zion AI Ticket Triage** is one of 533+ interconnected apps in the Zion Tech Group network.
 
-## Network
-- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
-- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [zion-apps-hub](https://github.com/Zion-support/zion-apps-hub)
-- Related: [zion-ai-help-desk](https://github.com/Zion-support/zion-ai-help-desk) · [zion-ai-support-copilot](https://github.com/Zion-support/zion-ai-support-copilot) · [ai-email-classifier](https://github.com/Zion-support/ai-email-classifier) · [ai-document-classifier](https://github.com/Zion-support/ai-document-classifier)
+- 🏠 [ziontechgroup.com](https://ziontechgroup.com)
+- 🗂️ [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
+- 📚 [Master Catalog](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
+- 📊 [Status](https://zion-support.github.io/zion-status/) · 💳 [Plans](https://zion-support.github.io/plans/) · 🧭 [Portal](https://zion-support.github.io/zion-portal/)
+- 📣 [App Network Showcase](https://ziontechgroup.com/app-network/)
+
+## Related apps
+- [Maintenance Ticket Triage](https://github.com/Zion-support/maintenance-ticket-triage)
+- [Zion AI Support Copilot](https://github.com/Zion-support/zion-ai-support-copilot)
+- [Zion AI Incident Responder](https://github.com/Zion-support/zion-ai-incident-responder)
 
 *Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
